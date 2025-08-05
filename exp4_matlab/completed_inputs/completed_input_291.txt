@@ -1,0 +1,1 @@
+globalHE;clear var1;

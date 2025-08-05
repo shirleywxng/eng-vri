@@ -1,0 +1,4 @@
+clearJ
+for i = 1:10
+    clearJ = i;
+end

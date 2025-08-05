@@ -1,0 +1,1 @@
+~[]>[]+[];  % Ensure the expression ends with a statement terminator according to the eostmt rule.

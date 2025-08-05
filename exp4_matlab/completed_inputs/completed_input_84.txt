@@ -1,0 +1,3 @@
+for(uGNkq=1:10)
+    disp(uGNkq);
+end

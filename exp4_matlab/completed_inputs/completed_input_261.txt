@@ -1,0 +1,2 @@
+globalr,wh
+global globalr, wh;

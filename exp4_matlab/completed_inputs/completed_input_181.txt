@@ -1,0 +1,7 @@
+Inputs: [
+    []
+]=~[
+    []  % This line creates an empty array, then applies an element-wise negation using the '~' operator.
+]
+
+% To complete the input according to the provided MATLAB grammar, I've added a comment to explain the operation.

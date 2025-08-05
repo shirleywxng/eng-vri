@@ -1,0 +1,1 @@
+global globalUS6X;

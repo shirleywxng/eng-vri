@@ -1,0 +1,3 @@
+Inputs: [
+    'a', 'b', 'c'
+].transpose

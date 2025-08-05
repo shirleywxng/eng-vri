@@ -1,0 +1,1 @@
+globalnJd;  % Assuming "globalnJd" is an identifier and completing it as an expression statement with a semicolon.

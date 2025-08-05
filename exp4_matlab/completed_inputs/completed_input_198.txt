@@ -1,0 +1,4 @@
+globalm3
+f = 2;
+
+global globalm3 f;

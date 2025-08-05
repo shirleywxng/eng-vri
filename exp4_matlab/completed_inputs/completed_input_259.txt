@@ -1,0 +1,6 @@
+clearSIvDU
+
+clearSIvDU = 5;
+clearSIvDU + 10;
+
+clear clearSIvDU;

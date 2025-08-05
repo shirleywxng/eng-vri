@@ -1,0 +1,3 @@
+for(HRD=[1, 2, 3]) 
+    disp(HRD); 
+end

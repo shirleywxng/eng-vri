@@ -1,0 +1,2 @@
+clearNosXZ;  % Assuming 'clearNosXZ' is intended as a variable name to be used in a statement
+clear clearNosXZ;    % A statement to clear the variable

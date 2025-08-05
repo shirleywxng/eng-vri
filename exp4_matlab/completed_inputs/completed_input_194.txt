@@ -1,0 +1,4 @@
+clearR;
+if A < B
+    disp('A is less than B');
+end;

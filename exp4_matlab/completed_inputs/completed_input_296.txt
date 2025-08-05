@@ -1,0 +1,2 @@
+globalu5pE; % Assuming 'globalu5pE' is intended to be a global variable declaration with a typo in the keyword 'global'
+global u5pE; % Corrected version according to the grammar definition

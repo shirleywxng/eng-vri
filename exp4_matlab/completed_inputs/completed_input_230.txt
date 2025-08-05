@@ -1,0 +1,2 @@
+clearxx,gl
+global identifier1, identifier2;
